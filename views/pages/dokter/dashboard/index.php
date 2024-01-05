@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <div class="content-wrapper">
+=======
+<div class="content-wrapper" style="background-image: url('https://jovee.id/wp-content/uploads/2022/10/cheerful-asian-dentists-posing-treatment-room-clinic-front-equipment.jpg'); background-size: cover; background-position: center;">
+>>>>>>> d0cab92 (revisi uiux)
     <div class="content-header">
         <div class="container-fluid">
             <div class="row mb-2">

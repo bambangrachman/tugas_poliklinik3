@@ -17,9 +17,15 @@
     <!-- Theme style -->
     <link rel="stylesheet" href="http://<?= $_SERVER['HTTP_HOST'] ?>/bk-poliklinik/public/css/adminlte.min.css">
 </head>
+<<<<<<< HEAD
 <body class="hold-transition login-page">
     <div class="login-box">
         <div class="card card-outline card-primary">
+=======
+<body class="hold-transition login-page" style="background-image: url('https://ayosehat.kemkes.go.id/imagex/content/b39e6d8b79bd74609ed45acb2415351c.webp'); background-size: cover; background-position: center;">
+    <div class="login-box">
+        <div class="card card-outline card-success">
+>>>>>>> d0cab92 (revisi uiux)
             <div class="card-header text-center">
                 <a href="http://<?= $_SERVER['HTTP_HOST'] ?>/bk-poliklinik/index.php" class="h1">Dinus Poliklinik</a>
             </div>

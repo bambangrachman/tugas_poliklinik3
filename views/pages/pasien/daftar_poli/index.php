@@ -25,7 +25,11 @@
                         }
                     ?>
                     <div class="card card-primary">
+<<<<<<< HEAD
                         <div class="card-header">
+=======
+                    <div class="card-header" style="background-color: #029756;">
+>>>>>>> d0cab92 (revisi uiux)
                             <p class="my-2">Daftar Poli</p>
                         </div>
                         <div class="card-body">
@@ -71,7 +75,11 @@
                                     <textarea name="keluhan" cols="10" rows="5" class="form-control" placeholder="Masukkan keluhan anda"></textarea>
                                 </div>
                                 <div class="form-group">
+<<<<<<< HEAD
                                     <button type="submit" class="btn btn-primary" name="submit">Daftar</button>
+=======
+                                    <button type="submit" class="btn btn-success" name="submit">Daftar</button>
+>>>>>>> d0cab92 (revisi uiux)
                                 </div>
                             </form>
                         </div>

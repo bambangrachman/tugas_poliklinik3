@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <div class="content-wrapper">
+=======
+<div class="content-wrapper" style="background-image: url('https://res.cloudinary.com/dk0z4ums3/image/upload/v1640582800/attached_image/memahami-lebih-jauh-fungsi-dan-tugas-dokter-umum-0-alodokter.jpg'); background-size: cover; background-position: center;">
+>>>>>>> d0cab92 (revisi uiux)
     <div class="content-header">
         <div class="container-fluid">
             <div class="row mb-2">
