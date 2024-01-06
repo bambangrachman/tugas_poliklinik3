@@ -17,17 +17,10 @@
     <section class="content">
         <div class="container-fluid">
             <div class="card card-secondary">
-<<<<<<< HEAD
-                <div class="card-header">
-                    <div class="d-flex align-items-center justify-content-between">
-                        <p class="my-2 card-title">Tabel Data Jadwal Periksa</p>
-                        <button data-toggle="modal" data-target="#tambahJadwalPeriksaModal" class="btn btn-primary btn-sm">
-=======
             <div class="card-header" style="background-color: #029756;">
                     <div class="d-flex align-items-center justify-content-between">
                         <p class="my-2 card-title">Tabel Data Jadwal Periksa</p>
                         <button data-toggle="modal" data-target="#tambahJadwalPeriksaModal" class="btn btn-success btn-sm">
->>>>>>> d0cab92 (revisi uiux)
                             <i class="fa fa-plus"></i>
                             Tambah Jadwal Periksa
                         </button>
@@ -72,11 +65,7 @@
                                         <td><?= $jadwal['jam_mulai'] ?></td>
                                         <td><?= $jadwal['jam_selesai'] ?></td>
                                         <td>
-<<<<<<< HEAD
-                                            <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-edit"></i> Edit</a>
-=======
                                             <a href="#" class="btn btn-success btn-sm"><i class="fa fa-edit"></i> Edit</a>
->>>>>>> d0cab92 (revisi uiux)
                                             <a href="#" class="btn btn-danger btn-sm delete-button"><i class="fa fa-trash"></i> Hapus</a>    
                                         </td>
                                     </tr>

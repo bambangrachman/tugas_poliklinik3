@@ -17,11 +17,7 @@
     <section class="content">
         <div class="container-fluid">
             <div class="card card-secondary">
-<<<<<<< HEAD
-                <div class="card-header">
-=======
             <div class="card-header" style="background-color: #029756;">
->>>>>>> d0cab92 (revisi uiux)
                     <p class="my-2 card-title">Tabel Data Daftar Periksa</p>
                 </div>
                 <div class="card-body">

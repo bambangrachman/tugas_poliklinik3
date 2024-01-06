@@ -9,11 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-<<<<<<< HEAD
-    <title>Sistem Temu Janji Poliklinik</title>
-=======
     <title>Dinus Poliklinik</title>
->>>>>>> d0cab92 (revisi uiux)
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Bootstrap icons-->
@@ -24,32 +20,19 @@
 
 <body>
     <!-- Responsive navbar-->
-<<<<<<< HEAD
-    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #00CF75;">
-=======
     <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #029756;">
->>>>>>> d0cab92 (revisi uiux)
         <div class="container px-5">
             <a class="navbar-brand" href="#">Dinus Poliklinik</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
         </div>
     </nav>
     <!-- Header-->
-<<<<<<< HEAD
-    <header class="py-5" style="background-color: #029756;"> <!-- Ubah Color Banner disini -->
-        <div class="container px-5">
-            <div class="row gx-5 justify-content-center">
-                <div class="col-lg-6">
-                    <div class="text-center my-5">
-                        <h1 class="display-5 fw-bolder text-white mb-2">Selamat Datang di Layanan Poliklinik Terpadu <br>Universitas Dian Nuswantoro</h1>
-=======
     <header class="py-5" style="background-image: url('https://www.rsabhk.co.id/images/Ilustrasi_dokter.jpg'); background-size: cover; background-position: center;">
         <div class="container px-5">
             <div class="row gx-5 justify-content-center">
                 <div class="col-lg-8">
                     <div class="text-center my-5">
                         <h1 class="display-5 fw-bolder text-white mb-3">Selamat Datang di Layanan Poliklinik Terpadu <br>Universitas Dian Nuswantoro</h1>
->>>>>>> d0cab92 (revisi uiux)
                         <p class="lead text-white-50 mb-4">Website poliklinik ini bertujuan untuk memberikan kemudahan proses layanan kesehatan </p>
                     </div>
                 </div>
@@ -60,49 +43,28 @@
     <section class="py-5 border-bottom" id="features">
         <div class="container px-5 my-5">
             <div class="row g-5">
-<<<<<<< HEAD
-                <div class="col-lg-6 mb-5 mb-lg-0">
-                    <div class="feature bg-success bg-gradient text-white rounded-3 mb-3"><i class="bi bi-person"></i></div>
-                    <h2 class="h4 fw-bolder">Login Sebagai Admin</h2>
-                    <p>Jika Anda seorang Admin, silahkan Login untuk mengelola website!</p>
-=======
                 <div class="col-lg-4 mb-5 mb-lg-0">
                     <div class="feature bg-success bg-gradient text-white rounded-3 mb-3"><i class="bi bi-person"></i></div>
                     <h2 class="h4 fw-bolder">Login Sebagai Admin</h2>
                     <p>Silahkan login untuk mengelola website.</p>
->>>>>>> d0cab92 (revisi uiux)
                     <a class="text-decoration-none" href="http://<?= $_SERVER['HTTP_HOST'] ?>/bk-poliklinik/views/pages/auth/login-admin.php">
                         Klik Link Berikut
                         <i class="bi bi-arrow-right"></i>
                     </a>
                 </div>
-<<<<<<< HEAD
-                <div class="col-lg-6 mb-5 mb-lg-0">
-                    <div class="feature bg-success bg-gradient text-white rounded-3 mb-3"><i class="bi bi-person"></i></div>
-                    <h2 class="h4 fw-bolder">Login Sebagai Dokter</h2>
-                    <p>Jika Anda seorang Dokter, silahkan Login untuk melayani Pasien!</p>
-=======
                 <div class="col-lg-4 mb-5 mb-lg-0">
                     <div class="feature bg-success bg-gradient text-white rounded-3 mb-3"><i class="bi bi-person"></i></div>
                     <h2 class="h4 fw-bolder">Login Sebagai Dokter</h2>
                     <p>Silahkan login untuk melayani pasien.</p>
->>>>>>> d0cab92 (revisi uiux)
                     <a class="text-decoration-none" href="http://<?= $_SERVER['HTTP_HOST'] ?>/bk-poliklinik/views/pages/auth/login-dokter.php">
                         Klik Link Berikut
                         <i class="bi bi-arrow-right"></i>
                     </a>
                 </div>
-<<<<<<< HEAD
-                <div class="col-lg-6 mb-5 mb-lg-0">
-                    <div class="feature bg-success bg-gradient text-white rounded-3 mb-3"><i class="bi bi-person"></i></div>
-                    <h2 class="h4 fw-bolder">Login Sebagai Pasien</h2>
-                    <p>Jika Anda seorang Pasien, silahkan Login untuk menggunakan layanan kami!</p>
-=======
                 <div class="col-lg-4 mb-5 mb-lg-0">
                     <div class="feature bg-success bg-gradient text-white rounded-3 mb-3"><i class="bi bi-person"></i></div>
                     <h2 class="h4 fw-bolder">Login Sebagai Pasien</h2>
                     <p>Silahkan login untuk menggunakan layanan kami.</p>
->>>>>>> d0cab92 (revisi uiux)
                     <a class="text-decoration-none" href="http://<?= $_SERVER['HTTP_HOST'] ?>/bk-poliklinik/views/pages/auth/login-pasien.php">
                         Klik Link Berikut
                         <i class="bi bi-arrow-right"></i>
@@ -113,11 +75,7 @@
     </section>
     
     <!-- Footer-->
-<<<<<<< HEAD
-    <footer class="main-footer px-4 py-2">
-=======
     <footer class="main-footer px-4 py-3">
->>>>>>> d0cab92 (revisi uiux)
         <strong>Copyright ©
             <script>
                 document.write(new Date().getFullYear())

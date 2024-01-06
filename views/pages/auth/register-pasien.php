@@ -17,15 +17,9 @@
     <!-- Theme style -->
     <link rel="stylesheet" href="http://<?= $_SERVER['HTTP_HOST'] ?>/bk-poliklinik/public/css/adminlte.min.css">
 </head>
-<<<<<<< HEAD
-<body class="hold-transition register-page">
-    <div class="register-box">
-        <div class="card card-outline card-primary">
-=======
 <body class="hold-transition register-page" style="background-image: url('https://st3.depositphotos.com/9881890/17220/i/450/depositphotos_172206982-stock-photo-doctors-brainstorming.jpg'); background-size: cover; background-position: center;">
     <div class="register-box">
         <div class="card card-outline card-success">
->>>>>>> d0cab92 (revisi uiux)
             <div class="card-header text-center">
                 <a href="http://<?= $_SERVER['HTTP_HOST'] ?>/bk-poliklinik/index.php" class="h1">Dinus Poliklinik</a>
             </div>

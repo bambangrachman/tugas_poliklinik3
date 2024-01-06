@@ -17,11 +17,7 @@
     <section class="content">
         <div class="container-fluid">
             <div class="card card-primary">
-<<<<<<< HEAD
-                <div class="card-header">
-=======
             <div class="card-header" style="background-color: #029756;">
->>>>>>> d0cab92 (revisi uiux)
                     <div class="card-title my-2">Form Tambah Data Obat</div>
                 </div>
                 <div class="card-body">
@@ -66,21 +62,13 @@
                             <input type="number" class="form-control" name="harga" placeholder="Harga" value="<?= $harga ?>">
                         </div>
                         <div class="form-group">
-<<<<<<< HEAD
-                            <button type="submit" class="btn btn-primary">Simpan</button>
-=======
                             <button type="submit" class="btn btn-success">Simpan</button>
->>>>>>> d0cab92 (revisi uiux)
                         </div>
                     </form>
                 </div>
             </div>
             <div class="card card-secondary">
-<<<<<<< HEAD
-                <div class="card-header">
-=======
             <div class="card-header" style="background-color: #029756;">
->>>>>>> d0cab92 (revisi uiux)
                     <p class="my-2 card-title">Tabel Data Obat</p>
                 </div>
                 <div class="card-body">

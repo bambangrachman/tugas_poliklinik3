@@ -17,11 +17,7 @@
     <section class="content">
         <div class="container-fluid">
             <div class="card card-secondary">
-<<<<<<< HEAD
-                <div class="card-header">
-=======
             <div class="card-header" style="background-color: #029756;">
->>>>>>> d0cab92 (revisi uiux)
                     <p class="my-2 card-title">Tabel Data Riwayat Pasien</p>
                 </div>
                 <div class="card-body">
@@ -59,11 +55,7 @@
                                             <td><?= $d['no_hp']; ?></td>
                                             <td><?= $d['no_rm']; ?></td>
                                             <td>
-<<<<<<< HEAD
-                                                <button data-toggle="modal" data-target="#detailModal<?= $d['id'] ?>" class="btn btn-info btn-sm">
-=======
                                                 <button data-toggle="modal" data-target="#detailModal<?= $d['id'] ?>" class="btn btn-success btn-sm">
->>>>>>> d0cab92 (revisi uiux)
                                                     <i class="fa fa-eye"></i> Detail Riwayat Periksa
                                                 </button>
                                             </td>

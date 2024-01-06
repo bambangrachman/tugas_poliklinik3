@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<div class="content-wrapper">
-=======
 <div class="content-wrapper" style="background-image: url('https://royalinstituteofnursing.com/wp-content/uploads/2022/05/5-syarat-jawib-kamu-tahu.jpg'); background-size: cover; background-position: center;">
->>>>>>> d0cab92 (revisi uiux)
     <div class="content-header">
         <div class="container-fluid">
             <div class="row mb-2">
